@@ -1,2 +1,2 @@
 # Resign-Prediction
-Memprediksi karyawan dan resign dengan menggunakan berbagai macam teknik klasifikasi Machine Learning.
+Memprediksi karyawan tinggal dan resign dengan menggunakan berbagai macam teknik klasifikasi Machine Learning.
